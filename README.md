@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  **A simple raycaster written in Rust using c's raylib**
+  <b>A simple raycaster written in Rust using c's raylib</b>
 </p>
 
 ---
