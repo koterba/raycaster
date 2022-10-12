@@ -7,7 +7,7 @@ const WINDOW_WIDTH: i32 = WINDOW_HEIGHT * 2;
 // const WINDOW_WIDTH: i32 = 1920;
 
 const FOV: f64 = std::f64::consts::PI / 3.0;
-const HALF_FOV: f64 = FOV / 2.0;
+const HALF_FOV: f64 = FOV / 2.0; 
 
 const TILES: i32 = 10;
 const TILE_SIZE: f64 = (WINDOW_HEIGHT / TILES) as f64;
